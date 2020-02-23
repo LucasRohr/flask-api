@@ -1,0 +1,7 @@
+-r base.txt
+-r test.txt
+
+ipdb==0.11
+ipython==7.8.0
+flask-shell-ipython==0.4.1
+isort==4.3.4
