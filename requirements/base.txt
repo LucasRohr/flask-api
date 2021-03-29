@@ -124,7 +124,7 @@ pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.2.2
 pyodbc==4.0.27
 pyOpenSSL==19.0.0
